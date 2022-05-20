@@ -1,5 +1,9 @@
-# data-cleaning-pandas-Project
+# Data-cleaning-pandas-Project
 Project - Data cleaning &amp; wrangling 
+Alexandra Rojas
+Monica Duarte
+21/05/2022
+
 
 # Data cleaning & wrangling - Project 
 
