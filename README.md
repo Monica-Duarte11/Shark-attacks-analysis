@@ -7,3 +7,5 @@ Este proyecto busca limpiar y analizar la base de datos global de taauqes de tib
 
 Para ello usamos python y Power BI (para visualizaciones finales) y aplicamos técnicas de limpieza de datos en pandas, exploraciones de datos y análisis.
 Con el fin de demostrar la siguiente hipótesis:
+
+"Los tiburones atacan mayormente a adolescentes"
