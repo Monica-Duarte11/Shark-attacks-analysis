@@ -16,9 +16,11 @@ Con el fin de demostrar la siguiente hipótesis:
 
 # Índice
 
-En el archivo `proyecto 21_05_adolescentes.ipynb` se presenta el código de limpieza y análisis de la base de datos
+En el archivo `proyecto 21_05_adolescentes.ipynb` se presenta el código de limpieza y análisis de la base de datos.
 
-En el acchivo `src.py` se encuentran las funciones usadas para la limpieza del data set 
+En el acchivo `src.py` se encuentran las funciones usadas para la limpieza del data set.
+
+En `Shark attacks.pdf` se podr´ver la presentación hecha para el pitch del proyecto.  
 
 Y, en el siguiente enlace, se muestran las visualizaciones creadas para entender los datos y validar la hipótesis: 
 
