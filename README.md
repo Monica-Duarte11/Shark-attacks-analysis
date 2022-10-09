@@ -2,8 +2,8 @@
 Project - Data cleaning &amp; wrangling 
 Alexandra Rojas
 Monica Duarte
-21/05/2022
-![cover] (shark_cover.png)
+21/05/2022\
+![cover](shark_cover.png)
 
 
 # Data cleaning & wrangling - Project 
