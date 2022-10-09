@@ -8,6 +8,14 @@ This project focuses on cleaning and analyzing the global shark attack database 
 
 For this, we have used python as programming language and Power BI as the tool for the final visualizations, applying data cleaning, wrangling and analysis techniques with pandas, matplotlib and  regex libraries.
 
+# Index
+
+💻 The `project 21_05_teenagers.ipynb` file contains the code for cleaning and analyzing the database.
+
+📚 In the file `src.py` can be found the functions used for the cleaning of the data set.
+
+👩‍🏫 In `Shark attacks.pdf` you can see the presentation made for the pitch of the project. 
+
 # Hypothesis
 
 For data cleaning and analysis, we looked for a hypothesis that could be demonstrated and validated through the available data. 
@@ -16,14 +24,6 @@ As the records gather demographic information on each attack, we examined a scen
 
 Taking into account the above arguments, the final hypothesis was:
 "Teenagers are the demographic group most likely to be attacked by sharks".
-
-# Index
-
-💻 The `project 21_05_teenagers.ipynb` file contains the code for cleaning and analyzing the database.
-
-📚 In the file `src.py` can be found the functions used for the cleaning of the data set.
-
-👩‍🏫 In `Shark attacks.pdf` you can see the presentation made for the pitch of the project.    
 
 # Visualizations
 
