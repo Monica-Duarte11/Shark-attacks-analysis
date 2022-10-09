@@ -1,8 +1,9 @@
-# Data-cleaning-pandas-Project
+# Shark attacks in Teenagers
 Project - Data cleaning &amp; wrangling 
 Alexandra Rojas
 Monica Duarte
 21/05/2022
+![cover] (shark_cover.png)
 
 
 # Data cleaning & wrangling - Project 
